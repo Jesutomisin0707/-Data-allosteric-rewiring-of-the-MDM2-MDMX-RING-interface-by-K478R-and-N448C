@@ -1,0 +1,14 @@
+receptor = N448CYS.pdbqt
+ligand = lig3.pdbqt
+
+out = out3.pdbqt
+
+center_x = 55.714
+center_y = 10.615
+center_z = 39.653
+
+size_x= 64
+size_y= 82
+size_z= 72
+
+exhaustiveness = 8
